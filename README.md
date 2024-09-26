@@ -1,5 +1,7 @@
 ### How to Run the Application Locally
 
+Node Version: 18
+
 1. **Clone the Repository**
 
    - Open terminal and run the following command to clone the repository:
@@ -13,7 +15,7 @@
      ```bash
      cd <project-directory>
      ```
-   - Open the project in your preferred code editor (e.g., VS Code):
+   - Open the project in your code editor (e.g., VS Code):
      ```bash
      code .
      ```
